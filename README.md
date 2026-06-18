@@ -34,4 +34,4 @@ To-Do List — это мини-приложение, разработанное 
 
 🚀 Доступно по ссылке:
 
-🔗 https://ruslansalyukov.github.io/todo-app/
+🔗 https://ruslansalyukov.github.io/todo-app
